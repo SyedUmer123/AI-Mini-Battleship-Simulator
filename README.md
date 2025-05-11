@@ -31,5 +31,6 @@
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/SyedUmer123/AI-Mini-Battleship-Simulator.git
+   cd AI-Mini-Battleship-Simulator
+
